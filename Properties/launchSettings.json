@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DotnetFrameworkGrib": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\temp\\SPOS_14.GRB2"
+    }
+  }
+}

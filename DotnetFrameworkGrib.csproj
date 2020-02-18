@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net461</TargetFrameworks>
+    <OutputType>Exe</OutputType>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <Version>1.1</Version>
+    <ApplicationIcon />
+    <StartupObject>DotnetFrameworkGrib.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Grib.Api" Version="1.0.0-beta4" />
+  </ItemGroup>
+</Project>
